@@ -1,0 +1,6 @@
+incident_id,title,description,priority,status,reported_by
+1,Phishing Email,User received a suspicious email,High,Open,1
+2,Malware Infection,Workstation infected with malware,Medium,Closed,2
+3,Data Leak,Confidential data found online,Critical,Open,3
+4,Unauthorized Access,Unknown login to server,High,In Progress,4
+5,Ransomware Attack,Files encrypted by malware,Critical,Open,5
