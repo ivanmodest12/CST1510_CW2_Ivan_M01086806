@@ -1,0 +1,6 @@
+ticket_id,subject,description,status,assigned_to
+1,Computer Not Starting,User's PC fails to boot,Open,2
+2,Password Reset,User cannot login,Closed,1
+3,Software Installation,Install VPN software,In Progress,3
+4,Email Issue,User cannot send emails,Open,4
+5,Network Slow,Internet connection slow,In Progress,5
